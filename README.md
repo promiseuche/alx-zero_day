@@ -1,2 +1,1 @@
-My first readme
-My second change
+This is a zero day project
